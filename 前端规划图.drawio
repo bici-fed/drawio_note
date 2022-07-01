@@ -1,17 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T08:28:50.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="haxRJx0fhM41l_nZFStm" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-01T08:35:36.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xC8nE38swBSzc9MWJh4q" version="20.0.4" type="github" pages="2">
   <diagram id="PWW8Ae4SmuhzxQuyc2Wb" name="前端规划图">
     <mxGraphModel dx="885" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-4" value="埋点系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="120" y="780" width="1260" height="60" as="geometry" />
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-6" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="170" width="290" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-6" value="流程图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-6" value="流程图" style="rounded=0;whiteSpace=wrap;html=1;" parent="OZt5-Xox7tSKMjcmnvGN-6" vertex="1">
+          <mxGeometry y="430" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-7" value="拓扑图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-7" value="拓扑图" style="rounded=0;whiteSpace=wrap;html=1;" parent="OZt5-Xox7tSKMjcmnvGN-6" vertex="1">
+          <mxGeometry y="310" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9PHeo4kufHjgPLmzatmF-2" value="低代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OZt5-Xox7tSKMjcmnvGN-6">
+          <mxGeometry y="520" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-2" value="web端扩展能力建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OZt5-Xox7tSKMjcmnvGN-6">
+          <mxGeometry width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-5" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="170" width="290" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-4" value="埋点系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="OZt5-Xox7tSKMjcmnvGN-5" vertex="1">
+          <mxGeometry y="610" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-16" value="基于umi4的模版项目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="OZt5-Xox7tSKMjcmnvGN-5" vertex="1">
+          <mxGeometry y="370" width="232" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-18" value="构建web端的bici-cli工具&lt;br&gt;1、普通项目工程&lt;br&gt;2、基于微前端的基座项目&lt;br&gt;3、基于微前端的子项目" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="OZt5-Xox7tSKMjcmnvGN-5" vertex="1">
+          <mxGeometry y="490" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-1" value="web端基础设施建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OZt5-Xox7tSKMjcmnvGN-5">
+          <mxGeometry x="58" width="232" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-12" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="520" y="300" width="290" height="160" as="geometry" />
@@ -27,12 +48,6 @@
         </mxCell>
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-11" value="3D数字孪生" style="rounded=0;whiteSpace=wrap;html=1;" parent="GN1xF4RMGACR0_WX6Sp8-12" vertex="1">
           <mxGeometry x="170" y="100" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-16" value="基于umi4的模版项目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="120" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-18" value="构建web端的bici-cli工具&lt;br&gt;1、普通项目工程&lt;br&gt;2、基于微前端的基座项目&lt;br&gt;3、基于微前端的子项目" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="120" y="660" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-24" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="920" y="342.5" width="350" height="95" as="geometry" />
@@ -64,8 +79,11 @@
         <mxCell id="9PHeo4kufHjgPLmzatmF-1" value="前端CI/CD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9PHeo4kufHjgPLmzatmF-2" value="低代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="690" width="120" height="60" as="geometry" />
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-3" value="APP端的建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-4" value="发布流程优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
