@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T08:22:13.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xuXmOch-uqApp6bZAqN0" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-01T08:28:50.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="haxRJx0fhM41l_nZFStm" version="20.0.4" type="github" pages="2">
   <diagram id="PWW8Ae4SmuhzxQuyc2Wb" name="前端规划图">
-    <mxGraphModel dx="1273" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="885" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-4" value="埋点系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-4" value="埋点系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="780" width="1260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-6" value="流程图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-11" value="3D数字孪生" style="rounded=0;whiteSpace=wrap;html=1;" parent="GN1xF4RMGACR0_WX6Sp8-12" vertex="1">
           <mxGeometry x="170" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-16" value="基于umi4的模版项目" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-16" value="基于umi4的模版项目" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="120" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-18" value="构建web端的bici-cli工具&lt;br&gt;1、普通项目工程&lt;br&gt;2、基于微前端的基座项目&lt;br&gt;3、基于微前端的子项目" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
@@ -46,19 +46,19 @@
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="GN1xF4RMGACR0_WX6Sp8-24" source="GN1xF4RMGACR0_WX6Sp8-17" target="GN1xF4RMGACR0_WX6Sp8-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-25" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-25" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="120" y="310" width="290" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-5" value="@bicitech-design/pro-components的能力" style="rounded=0;whiteSpace=wrap;html=1;" parent="GN1xF4RMGACR0_WX6Sp8-25" vertex="1">
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-5" value="@bicitech-design/pro-components的能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="GN1xF4RMGACR0_WX6Sp8-25" vertex="1">
           <mxGeometry x="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-13" value="组件库" style="rounded=0;whiteSpace=wrap;html=1;" parent="GN1xF4RMGACR0_WX6Sp8-25" vertex="1">
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-13" value="组件库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="GN1xF4RMGACR0_WX6Sp8-25" vertex="1">
           <mxGeometry y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="GN1xF4RMGACR0_WX6Sp8-25" vertex="1">
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="GN1xF4RMGACR0_WX6Sp8-25" vertex="1">
           <mxGeometry x="120" y="30" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="GN1xF4RMGACR0_WX6Sp8-15" value="@bici-wui自有组件库&lt;br&gt;1、基础组件&lt;br&gt;2、业务组件&lt;br&gt;3、常用工具类" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="GN1xF4RMGACR0_WX6Sp8-25" vertex="1">
+        <mxCell id="GN1xF4RMGACR0_WX6Sp8-15" value="@bici-wui自有组件库&lt;br&gt;1、基础组件&lt;br&gt;2、业务组件&lt;br&gt;3、常用工具类" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="GN1xF4RMGACR0_WX6Sp8-25" vertex="1">
           <mxGeometry x="170" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9PHeo4kufHjgPLmzatmF-1" value="前端CI/CD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
