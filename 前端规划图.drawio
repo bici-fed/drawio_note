@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T08:41:45.301Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GyTUWlFfJy5LfMIYFY2n" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T08:11:28.134Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="qLYoe2XGAU020Ts-DpXd" version="21.7.5" type="github" pages="2">
   <diagram id="PWW8Ae4SmuhzxQuyc2Wb" name="前端规划图">
-    <mxGraphModel dx="885" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OZt5-Xox7tSKMjcmnvGN-6" value="" style="group;" vertex="1" connectable="0" parent="1">
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-6" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="520" y="170" width="290" height="580" as="geometry" />
         </mxCell>
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-6" value="流程图" style="rounded=0;whiteSpace=wrap;html=1;" parent="OZt5-Xox7tSKMjcmnvGN-6" vertex="1">
@@ -13,10 +13,10 @@
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-7" value="拓扑图" style="rounded=0;whiteSpace=wrap;html=1;" parent="OZt5-Xox7tSKMjcmnvGN-6" vertex="1">
           <mxGeometry y="310" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9PHeo4kufHjgPLmzatmF-2" value="低代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OZt5-Xox7tSKMjcmnvGN-6">
+        <mxCell id="9PHeo4kufHjgPLmzatmF-2" value="低代码" style="rounded=0;whiteSpace=wrap;html=1;" parent="OZt5-Xox7tSKMjcmnvGN-6" vertex="1">
           <mxGeometry y="520" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZt5-Xox7tSKMjcmnvGN-2" value="web端扩展能力建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="OZt5-Xox7tSKMjcmnvGN-6">
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-2" value="web端扩展能力建设" style="rounded=0;whiteSpace=wrap;html=1;" parent="OZt5-Xox7tSKMjcmnvGN-6" vertex="1">
           <mxGeometry width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-12" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -61,23 +61,23 @@
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-15" value="@bici-wui自有组件库&lt;br&gt;1、基础组件&lt;br&gt;2、业务组件&lt;br&gt;3、常用工具类" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="GN1xF4RMGACR0_WX6Sp8-25" vertex="1">
           <mxGeometry x="170" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9PHeo4kufHjgPLmzatmF-1" value="前端CI/CD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9PHeo4kufHjgPLmzatmF-1" value="前端CI/CD" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1350" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZt5-Xox7tSKMjcmnvGN-11" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZt5-Xox7tSKMjcmnvGN-3">
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-11" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZt5-Xox7tSKMjcmnvGN-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1090.0000000000002" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZt5-Xox7tSKMjcmnvGN-3" value="APP端的建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-3" value="APP端的建设" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZt5-Xox7tSKMjcmnvGN-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZt5-Xox7tSKMjcmnvGN-4">
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZt5-Xox7tSKMjcmnvGN-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1400" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZt5-Xox7tSKMjcmnvGN-4" value="发布流程优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-4" value="发布流程优化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-4" value="埋点系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -89,7 +89,7 @@
         <mxCell id="GN1xF4RMGACR0_WX6Sp8-18" value="构建web端的bici-cli工具&lt;br&gt;1、普通项目工程&lt;br&gt;2、基于微前端的基座项目&lt;br&gt;3、基于微前端的子项目" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="124" y="660" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZt5-Xox7tSKMjcmnvGN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="OZt5-Xox7tSKMjcmnvGN-1">
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" parent="1" source="OZt5-Xox7tSKMjcmnvGN-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="310" as="targetPoint" />
             <Array as="points">
@@ -98,10 +98,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZt5-Xox7tSKMjcmnvGN-1" value="web端基础设施建设" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-1" value="web端基础设施建设" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="149" y="170" width="232" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZt5-Xox7tSKMjcmnvGN-10" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZt5-Xox7tSKMjcmnvGN-2">
+        <mxCell id="OZt5-Xox7tSKMjcmnvGN-10" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZt5-Xox7tSKMjcmnvGN-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="660" y="300" as="targetPoint" />
             <Array as="points">
