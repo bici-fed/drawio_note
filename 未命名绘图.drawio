@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T13:01:33.099Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tCF5nW1GeI9Mezwm3zz4" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T13:23:59.063Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AG8Z69Al0d6sn5ZeHV5R" version="24.0.7" type="github">
   <diagram name="第 1 页" id="VBZ4mVqsqxVWigmQYTew">
-    <mxGraphModel dx="3285" dy="2165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3754" dy="2474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CUMaAFuCnt0o6DWc_8Jj-3" value="大标题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=64;" vertex="1" parent="1">
-          <mxGeometry width="4130" height="110" as="geometry" />
+          <mxGeometry width="4390" height="110" as="geometry" />
         </mxCell>
         <mxCell id="CUMaAFuCnt0o6DWc_8Jj-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="150" width="770" height="280" as="geometry" />
@@ -42,6 +42,57 @@
         </mxCell>
         <mxCell id="CUMaAFuCnt0o6DWc_8Jj-15" value="游性别统计数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="520" y="1020" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="850" width="610" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-17" value="客源地分析模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="900" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="120" width="1420" height="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-19" value="&lt;span style=&quot;text-align: start; font-size: 32px; font-family: DengXian;&quot;&gt;平台运营数据模块&lt;/span&gt;&lt;span style=&quot;font-size: 32px; text-align: start;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="190" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-20" value="地图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="584" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="130" width="700" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-22" value="天气预报模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="190" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3690" y="130" width="700" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-24" value="分销渠道模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="3960" y="180" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="530" width="1410" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-26" value="产品排行模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="3650" y="605" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="150" width="580" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-28" value="在线预定占比模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="225" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="915" width="740" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-30" value="对接销售系统看报表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="3260" y="1037.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3790" y="910" width="640" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CUMaAFuCnt0o6DWc_8Jj-32" value="接停车场系统报表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="3990" y="1047.5" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
